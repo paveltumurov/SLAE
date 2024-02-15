@@ -1,0 +1,3 @@
+/home/pavel/SLE/task1/src/build/CMakeFiles/TDM.dir
+/home/pavel/SLE/task1/src/build/CMakeFiles/edit_cache.dir
+/home/pavel/SLE/task1/src/build/CMakeFiles/rebuild_cache.dir

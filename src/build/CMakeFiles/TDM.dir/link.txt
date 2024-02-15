@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTDM.a CMakeFiles/TDM.dir/TDM.cpp.o
+/usr/bin/ranlib libTDM.a
