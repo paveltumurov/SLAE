@@ -22,3 +22,4 @@ std::vector<double> conj_grad(const CSRMatrix& A, const std::vector<double>& b, 
     }
     return x;
 }
+
