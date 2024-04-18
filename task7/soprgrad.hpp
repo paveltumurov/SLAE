@@ -1,6 +1,7 @@
 #include "../task4/Matrixes.hpp"
 #include "../task4/v_ops.hpp"
 #include <cmath>
+
 std::vector<double> conj_grad(const CSRMatrix& A, const std::vector<double>& b, const std::vector<double>& x0,  double tol, int N){
     int n = b.size();
     int l=0;
